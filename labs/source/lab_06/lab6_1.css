@@ -1,0 +1,32 @@
+/**********************************************
+CHANGING THE STYLE OF THE STRUCTURAL ELEMENTS
+**********************************************/
+
+body {
+    background: green;
+}
+
+body,
+p {
+    font-family: Verdana, sans-serif;
+}
+
+address {
+    font-family: Times New Roman, Times, serif;
+    font-size: small;
+}
+
+
+/*******************************************
+CHANGING THE STYLE OF THE HEADING ELEMENTS
+*******************************************/
+
+h1 {
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: white;
+    font-family: Courier New, monospace;
+}
