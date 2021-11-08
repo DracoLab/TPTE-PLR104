@@ -56,16 +56,3 @@
 ## Εργασίες
 
 - [Εργασία Ενδιάμεσης Εξέτασης](ergasies/proodos.md)
-
-## Σημειώσεις
-
-- [Εισαγωγή στη HTML](more/HTML/README.md)
-  - [Δομή της HTML](more/HTML/docs/structure.md)
-  - [Eτικέτες(tags)](more/HTML/docs/tags.md)
-- [Εισαγωγή στη CSS](more/CSS/README.md)
-  - [Η σύνταξη και οι μορφές της γλώσσας](more/CSS/docs/syntax.md)
-  - [Επιλογείς CSS](more/CSS/docs/selectors.md)
-  - [Kείμενα CSS](more/CSS/docs/text.md)
-  - [Yπερχείληση CSS](more/CSS/docs/overflow.md)
-  - [Λίστες CSS](more/CSS/docs/lists.md)
-  - [Σύνορα CSS](more/CSS/docs/borders.md)
