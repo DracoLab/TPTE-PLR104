@@ -38,6 +38,9 @@
 - [7η Διάλεξη](lectures/lecture-07.md)
 - [8η Διάλεξη](lectures/lecture-08.md)
 - [9η Διάλεξη](lectures/lecture-09.md)
+- [10η Διάλεξη](lectures/lecture-10.md)
+- [11η Διάλεξη](lectures/lecture-11.md)
+- [12η Διάλεξη](lectures/lecture-12.md)
 
 ## Εργαστήρια
 
@@ -52,6 +55,8 @@
 - [7ο Εργαστήριο](labs/lab-07.md)
 - [8ο Εργαστήριο](labs/lab-08.md)
 - [9ο Εργαστήριο](labs/lab-09.md)
+- [10ο Εργαστήριο](labs/lab-10.md)
+- [11ο Εργαστήριο](labs/lab-11.md)
 
 ## Εργασίες
 
