@@ -44,4 +44,4 @@ Google map (η πόλη μου)
 
 ![Proodos](../images/proodos.jpg)
 
-Για να δείτε τη **ΛΥΣΗ** πατήστε [εδώ](KAZH.html).
+Για να δείτε τη **ΛΥΣΗ** πατήστε [εδώ](index.html).
