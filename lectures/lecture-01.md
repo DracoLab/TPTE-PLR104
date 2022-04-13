@@ -149,10 +149,6 @@ Tο Internet (Διαδίκτυο) συχνά συγχέεται με τις υπ
 - AI chatbots
 - Web of Things, Web of Data, Smart Cities, Smart –xxx
 
-- Social Media (Facebook, Twitter, Flickr, Instagram…)
-- Web Search Engines e.g. Google
-- Web apps/docs e.g. Google docs, slides
-
 ## Υπερκείμενο (HyperText)
 
 - Το Web είναι βασισμένο στην έννοια του υπερκειμένου - ένας μηχανισμός όπου η πληροφορία είναι κατανεμημένη σε πολλές σελίδες και δια-συνδεδεμένη.
