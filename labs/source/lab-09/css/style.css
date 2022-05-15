@@ -1,0 +1,27 @@
+#header {
+    background-color: white;
+    border: 5px green solid;
+}
+
+#header h2 {
+    border: 5px orange solid;
+}
+
+.date {
+    border: 5px purple solid;
+}
+
+.entry {
+    border: 5px blue solid;
+    padding: 5px;
+    background-color: #E8FBFB;
+    margin-top: 10px;
+}
+
+#header {
+    border: 5px red solid;
+}
+
+#header h2 {
+    border: 5px orange solid;
+}
