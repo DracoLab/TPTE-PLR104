@@ -39,7 +39,6 @@ img {
 
 2ος κώδικας **CSS** (style.css):
 
-<!--
 ```css
 #header {
     background-color: white;
