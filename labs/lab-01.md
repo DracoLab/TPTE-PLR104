@@ -12,11 +12,11 @@
 
 ## Notepad++ (save as type)
 
-![Notepad](../images/Notepad.jpg)
+![Notepad](../images/lab1-1.jpg)
 
 ## Notepad++ (encoding)
 
-![Notepad Encoding](../images/Notepad_Encoding.jpg)
+![Notepad Encoding](../images/lab1-2.jpg)
 
 ## W3schools tutorial
 
