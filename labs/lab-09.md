@@ -17,7 +17,6 @@
 
 1ος κώδικας **CSS** (basic.css):
 
-<!--
 ```css
 body {
     font-family: "Georgia";
@@ -37,7 +36,6 @@ img {
     padding: 5px;
 }
 ```
--->
 
 2ος κώδικας **CSS** (style.css):
 
@@ -71,9 +69,9 @@ img {
     border: 5px orange solid;
 }
 ```
--->
+
 Κώδικας **HTML** (index.html):
-<!--
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -110,4 +108,3 @@ img {
     </body>
 </html>
 ```
--->
